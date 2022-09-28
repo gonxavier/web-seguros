@@ -1,0 +1,37 @@
+/* .img-fluid {
+    width: 150px;
+    max-width: 150px;
+} */
+
+.icon-set {
+    font-size: 30px;
+    color: #2a86ff;
+    margin-bottom: 10px;
+}
+
+.icon-tab-size {
+    padding: 18px;
+    font-size: 35px;
+}
+
+.about .content .about-btn {
+    border: 2px solid #2a86ff;
+}
+
+.about:hover
+.content:hover
+.about-btn:hover {
+    background-color: #2a86ff;
+}
+
+.clients .swiper-pagination .swiper-pagination-bullet {
+    border: 1px solid #2a86ff;
+}
+
+.clients .swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #2a86ff;
+}
+
+.form-altura {
+    min-height: 100%;
+}

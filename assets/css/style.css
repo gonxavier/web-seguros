@@ -486,13 +486,14 @@ section {
 
 .section-bg:before {
   content: "";
-  background: #1b1b1b;
+  /* background: #1b1b1b; */
+  background: #0e223a;
   position: absolute;
   bottom: 60px;
   top: 60px;
   left: 0;
   right: 0;
-  transform: skewY(-1deg);
+  transform: skewY(-0.8deg);
 }
 
 /*--------------------------------------------------------------
